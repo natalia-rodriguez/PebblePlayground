@@ -1,0 +1,25 @@
+{
+    "author": "natalia.latoty@gmail.com",
+    "dependencies": {},
+    "keywords": [],
+    "name": "tutorial1",
+    "pebble": {
+        "displayName": "Tutorial1",
+        "enableMultiJS": true,
+        "messageKeys": [],
+        "projectType": "rocky",
+        "resources": {
+            "media": []
+        },
+        "sdkVersion": "3",
+        "targetPlatforms": [
+            "basalt",
+            "chalk"
+        ],
+        "uuid": "0f88904c-a12f-465d-87c7-d0f9927e5b6f",
+        "watchapp": {
+            "watchface": true
+        }
+    },
+    "version": "1.0.0"
+}
